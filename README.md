@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaylynn</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 💬 Ask me about **react, gsap, and tailwind**
+- 💬 Ask me about **react, gsap, tailwind**
 
 - 📫 How to reach me **kayleesatch@gmail.com**
+
+- 📄 Know about my experiences [https://Kaylynn_Satchell_Resume_ATS.pdf](https://Kaylynn_Satchell_Resume_ATS.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
