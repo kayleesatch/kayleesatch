@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kayleesatch@gmail.com**
 
-- 📄 Know about my experiences [https://Kaylynn_Satchell_Resume_ATS.pdf](https://Kaylynn_Satchell_Resume_ATS.pdf)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1TcXhiJL7dsShMkPLjT0EGUHHr9Z0G2kzsGq_5L2IdjM/edit?usp=drive_link](https://docs.google.com/document/d/1TcXhiJL7dsShMkPLjT0EGUHHr9Z0G2kzsGq_5L2IdjM/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
