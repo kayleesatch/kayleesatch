@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [kaylynn-portfolio.vercel.app](kaylynn-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [kaylynn-portfolio.vercel.app](https://kaylynn-portfolio.vercel.app)
 
 - 💬 Ask me about **react, gsap, tailwind**
 
