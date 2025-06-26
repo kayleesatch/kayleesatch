@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kaylynn-portfolio.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kaylynn-portfolio.vercel.app" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/kaylynn-satchell-04a79a315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaylynn-satchell-04a79a315" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kaylynn satchell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaylynn satchell" height="30" width="40" /></a>
 </p>
